@@ -4,7 +4,7 @@ A simple News Aggregator built with HTML, CSS, and JavaScript that fetches the l
 
 Features-:
 
-1 Fetches news from multiple sources
+1 Fetches news from multiple sources 
 2 Clean and responsive UI
 3 Easy-to-navigate layout
 
